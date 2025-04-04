@@ -192,11 +192,6 @@ We welcome contributions that enhance CreditWise's capabilities:
 
 Released under MIT License. See `LICENSE` for details.
 
-## Contact
-
-Project Link: [https://github.com/gregorizeidler/credwise_models_app](https://github.com/your-username/creditwise)
-
----
 
 <div align="center">
   <p>
