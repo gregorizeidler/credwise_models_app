@@ -192,9 +192,6 @@ Recebemos contribuições que aprimorem as capacidades do CreditWise:
 
 Liberado sob Licença MIT. Veja `LICENSE` para detalhes.
 
-## Contato
-
-Link do Projeto: [https://github.com/seu-usuario/creditwise](https://github.com/seu-usuario/creditwise)
 
 ---
 
