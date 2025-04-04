@@ -1,8 +1,6 @@
 # CreditWise
 
 <div align="center">
-  <img src="https://github.com/seu-usuario/creditwise/raw/main/assets/logo.png" alt="CreditWise Logo" width="400px">
-  
   **Advanced Credit Risk Analysis with ML Explainability**
   
   [![Python](https://img.shields.io/badge/Python-3.7%2B-4584b6?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
