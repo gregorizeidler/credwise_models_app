@@ -13,6 +13,11 @@
   [![Code Style: Black](https://img.shields.io/badge/Code%20Style-Black-000000?style=flat-square)](https://github.com/psf/black)
 </div>
 
+## Vídeo de Demonstração
+
+Assista a uma demonstração da plataforma CreditWise em funcionamento:
+[Clique aqui para ver o vídeo de demonstração](https://drive.google.com/file/d/12DYjNcVZ1p0uRPJLejAJil4P3jtXZQYE/view?usp=sharing)
+
 ## Visão Geral
 
 O CreditWise é uma plataforma de análise de risco de crédito que utiliza machine learning e técnicas de explicabilidade para fornecer avaliações de crédito e insights acionáveis. A aplicação utiliza dados sintéticos para demonstrar técnicas de credit scoring e estratégias de cobrança.
