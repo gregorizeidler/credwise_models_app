@@ -13,6 +13,11 @@
   [![Code Style: Black](https://img.shields.io/badge/Code%20Style-Black-000000?style=flat-square)](https://github.com/psf/black)
 </div>
 
+## Demo Video
+
+Watch a demonstration of the CreditWise platform in action:
+[Click here to view the demo video](https://drive.google.com/file/d/12DYjNcVZ1p0uRPJLejAJil4P3jtXZQYE/view?usp=sharing)
+
 ## Overview
 
 CreditWise is a credit risk analysis platform that uses machine learning and explainability techniques to deliver credit assessments and actionable insights. The application leverages synthetic data to demonstrate credit scoring and collection strategies.
